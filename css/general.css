@@ -1,3 +1,57 @@
 html {
-    font-family: futura
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+body {background-color: #f00
+}
+
+h1 {
+    font-family: "Futura",Sans-serif; 
+    font-size: 2.9rem; /* 1 rem= 16px all typography will be measured in rem */
+    font-weight: Bold;
+}
+
+h1 {
+    color: #fffdfd
+}
+
+
+li {
+    font-size: 1rem;
+    line-height: 1.1rem
+}
+
+p { 
+    font-family: "Times New Roman", serif;
+    background-color:#ccc
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+hr {
+    border: solid 4px #000000
+}
+
+ul,
+ol {
+
+    background-color: #fff
+}
+
+li {
+    color: #F00
+}
+
+ol li:first-child {
+    background-color: #000
+}
+
+ol li:last-child {
+    background-color: #f90
+}  
