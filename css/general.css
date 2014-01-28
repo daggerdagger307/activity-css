@@ -30,9 +30,7 @@ strong {
     font-weight: bold;
 }
 
-em {
-    font-style: italic;
-}
+
 
 hr {
     border: solid 4px #000000
@@ -52,6 +50,4 @@ ol li:first-child {
     background-color: #000
 }
 
-ol li:last-child {
-    background-color: #f90
-}  
+
